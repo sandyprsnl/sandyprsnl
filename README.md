@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandyprsnl
 - 👀 I’m interested in developing web and mobile applications
-- 🌱 I’m currently learning Flutter and React Native
+- 🌱 I’m currently learning Flutter and Laravel
 - 💞️ I’m looking to collaborate on developing web and mobile app
 - 📫 How to reach me mail me on phpspot4@gmail.com
 
