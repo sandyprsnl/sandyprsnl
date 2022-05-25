@@ -1,11 +1,18 @@
 # 💫About Me :
 👋 Hi, I’m @sandyprsnl
+
 👀 I’m interested in developing web and mobile applications
+
 🌱 I’m currently learning Flutter and Laravel
+
 💞️ I’m looking to collaborate on developing web and mobile app
+
 📫 How to reach me mail me on phpspot4@gmail.com
+
   pronouns: he/his
+  
   Fun fact : I spend almost 12 hours on learning 
+  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sandeep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtube.com/channel/UCmWvYGbhYYpcjnOYpOTuaMg) 
